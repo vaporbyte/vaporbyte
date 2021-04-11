@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vaporbyte
+- 👀 I’m interested in C++, Rust, and OS related development
+- 🌱 I’m currently studying for the CompTIA Network+ Exam
+- 💞️ I’m looking to collaborate on any fun open source projects
+- 📫 You can reach me via @subnetsandwich:matrix.org
